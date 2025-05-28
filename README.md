@@ -5,10 +5,9 @@ This was our **first collaborative project at Hyper Island**, created as part of
 ## Built With
 
 - **HTML5**
-- **CSS3**
-- **JavaScript (Vanilla)**
-- **Webpack** for bundling
-- **Git & GitHub** for collaboration
+- **CSS**
+- **JavaScript **
+- **Webpack**
 
 ## Features
 
@@ -30,10 +29,7 @@ Each of us contributed with design, code, and personal projects displayed in the
 
 ## Live Demo
 
-You can view the deployed site here:  
-[https://studio-website-alex.netlify.app](https://studio-website-alex.netlify.app)
-
-> This is a **personal fork** of the team repo to showcase my individual version of the site. It does not affect the original repository.
+You can view the deployed site here: https://studio-website-alexandra-riva.netlify.app/
 
 ## How to Run Locally
 

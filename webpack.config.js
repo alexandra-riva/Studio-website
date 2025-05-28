@@ -8,15 +8,15 @@ module.exports = (env, argv) => {
     mode: isProduction ? "production" : "development",
     entry: "./src/index.js",
     output: {
-      filename: isProduction ? "main.[contenthash].js" : "main.js", // Cache busting in production
+      filename: isProduction ? "main.[contenthash].js" : "main.js", 
       path: path.resolve(__dirname, "dist"),
       clean: true,
     },
-    devtool: isProduction ? false : "eval-source-map", // Disable source maps in production
+    devtool: isProduction ? false : "eval-source-map", 
     devServer: {
       watchFiles: ["./src/template.html"],
-      open: true, // Automatically open the browser
-      hot: true, // Enable hot module replacement
+      open: true,
+      hot: true, 
     },
     plugins: [
       new HtmlWebpackPlugin({
@@ -25,7 +25,7 @@ module.exports = (env, argv) => {
           removeComments: true,
           collapseWhitespace: true,
           removeAttributeQuotes: true,
-        } : false, // Disable minification in development
+        } : false, 
       }),
     ],
     module: {

@@ -1,4 +1,4 @@
-# Studio Website – Hyper Island Collaborative Project
+# Studio Website – Collaborative Project
 
 This was our **first collaborative project at Hyper Island**, created as part of the Frontend Development module. The idea was to imagine a fictional creative agency and design a shared homepage to introduce our "studio," showcase each team member’s individual project, and build a smooth, engaging web experience.
 

@@ -6,7 +6,7 @@ This was our **first collaborative project at Hyper Island**, created as part of
 
 - **HTML5**
 - **CSS**
-- **JavaScript **
+- **JavaScript**
 - **Webpack**
 
 ## Features
@@ -33,7 +33,7 @@ You can view the deployed site here: https://studio-website-alexandra-riva.netli
 
 ## How to Run Locally
 
-git clone https://github.com/alexandra-riva/Studio-website.git
-cd Studio-website
-npm install
-npm run dev
+- git clone https://github.com/alexandra-riva/Studio-website.git
+- cd Studio-website
+- npm install
+- npm run dev
